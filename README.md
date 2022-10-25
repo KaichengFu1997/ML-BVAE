@@ -4,10 +4,10 @@
 Implements the  Multi-Label classification network with Brain Variational Auto-Encoder (ML-BVAE) in pytorch (python).
 
 ## Dependencies
-
-- pytorch
-- numpy
-- scikit-learn
+- python 3.7.0
+- pytorch 1.8.1
+- numpy 1.21.2
+- scikit-learn 1.0
 
 ## Data
 

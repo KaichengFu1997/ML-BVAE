@@ -1,5 +1,5 @@
-# Code for paper “Emotion Decoding from Brain Activity with a multi-view multi-label Hybrid Model”
-> - Paper: Emotion Decoding from Brain Activity with a multi-view multi-label Hybrid Model
+# Code for paper “Multi-view Multi-label Fine-grained Emotion Decoding from Human Brain Activity”
+> - Paper: Multi-view Multi-label Fine-grained Emotion Decoding from Human Brain Activity
 
 Implements the  Multi-Label classification network with Brain Variational Auto-Encoder (ML-BVAE) in pytorch (python).
 

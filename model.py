@@ -44,7 +44,7 @@ class MVAE(nn.Module):
         # reconstruct inputs based on that gaussian
         y = self.mlp(z)
         left_recon  = self.left_decoder(z)
-        right_recon  = self.left_decoder(z)
+        right_recon  = self.right_decoder(z)
         diff_recon = self.diff_decoder(z)
         return left_recon, right_recon,diff_recon, mu, logvar,y
 
